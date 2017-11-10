@@ -1,2 +1,5 @@
 [project]
 name = beta
+
+[servers.ghpages]
+target = ghpages+https://djmarkey1/djmarkey1.github.io]
